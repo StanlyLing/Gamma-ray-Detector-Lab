@@ -2,7 +2,8 @@
 This is a workshop about Gamma-ray detection
 
 1. "Space Detector Lab" is the main file that contains all required raw spectrum, python analysis code and final result of the analysis.
-2. 
+2. This reppsitory only shows the code. To be able to access to the final code, go to the zip file on brightspace and follow the following workflow.
+   
 #######################################Workflow #####################################
 
 1. To see the pythoh analysis code for gaussian, resolution model, channel-to-energy conversion, efficiency model and etc, please locate the python file at the following directory:
